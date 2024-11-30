@@ -1,8 +1,6 @@
+## Digit Classification using Neural Networks
 
-
-# Digit Classification using Neural Networks
-
-# **Overview**
+## **Overview**
 This script demonstrates a neural network-based approach for handwritten digit recognition using the MNIST dataset. It includes steps for data preprocessing, model training, evaluation, and real-time prediction of handwritten digits from user-provided images.
 
 ---
@@ -60,16 +58,8 @@ This script demonstrates a neural network-based approach for handwritten digit r
 ---
 
 ## **Advantages**
-- Easy-to-use script for beginners and researchers.
 - Demonstrates practical application of neural networks for image classification.
 - Modular design for training, evaluation, and prediction.
-
----
-
-## **Limitations**
-- Limited to grayscale 28x28 pixel images.
-- Custom image preprocessing must align with MNIST standards.
-- The model’s architecture is simple and may not generalize well to complex datasets.
 
 ---
 
@@ -78,10 +68,3 @@ This script demonstrates a neural network-based approach for handwritten digit r
 - **Tools**: Python libraries including TensorFlow and OpenCV.
 
 ---
-
-## **Author**
-- Automatically generated from a Google Colab notebook.
-
---- 
-
-Feel free to adapt this README to suit your exact requirements!
