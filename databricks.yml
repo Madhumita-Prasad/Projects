@@ -1,0 +1,9 @@
+bundle:
+  name: my-project-bundle
+
+workspace:
+  host: https://dbc-d03e585a-0b01.cloud.databricks.com
+  root_path:/Users/madhumita.prasad@aidetic.in/github_asset_bundle
+
+include:
+  - notebooks/*.ipynb
